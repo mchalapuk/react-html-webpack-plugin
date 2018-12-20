@@ -1,6 +1,6 @@
 {
   "name": "react-html-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Renders React component as HTML template.",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/mchalapuk/react-html-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/mchalapuk/react-html-webpack-plugin#readme"
+  "homepage": "https://github.com/mchalapuk/react-html-webpack-plugin#readme",
+  "dependencies": {
+    "eval": "^0.1.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "webpack": "^4.28.0"
+  }
 }
