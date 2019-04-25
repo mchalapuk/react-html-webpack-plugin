@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mchalapuk/react-html-webpack-plugin.git"
+    "url": "git+https://github.com/paramorph/react-html-webpack-plugin.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   "author": "Maciej Chałapuk (maciej@chalapuk.pl)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mchalapuk/react-html-webpack-plugin/issues"
+    "url": "https://github.com/paramorph/react-html-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/mchalapuk/react-html-webpack-plugin#readme",
+  "homepage": "https://github.com/paramorph/react-html-webpack-plugin#readme",
   "dependencies": {
     "eval": "^0.1.2",
     "react": "^16.6.3",
