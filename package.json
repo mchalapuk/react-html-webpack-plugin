@@ -1,6 +1,6 @@
 {
   "name": "react-html-webpack-plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Renders React component as HTML template.",
   "main": "index.js",
   "scripts": {
